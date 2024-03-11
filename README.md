@@ -1,16 +1,3 @@
-# flyin
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Wodos - Firebase Flutter Phone Authentication TO Do App
+## Images
+![Pixel True Mockup](https://github.com/rajkumarpawar07/Flutter-Firebase-Phone-Authentication-TO-Do-App/assets/100755016/f4276c09-2b2d-41b1-9684-da159fcafb71)![Pixel True Mockup (1)](https://github.com/rajkumarpawar07/Flutter-Firebase-Phone-Authentication-TO-Do-App/assets/100755016/fb4b2ae9-8d90-456b-b633-ed24194c1c15)
