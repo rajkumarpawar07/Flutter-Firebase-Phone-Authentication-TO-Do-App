@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241903617377",
+    "project_id": "flyin-e8302",
+    "storage_bucket": "flyin-e8302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241903617377:android:fa505e320d7a4ecae4f120",
+        "android_client_info": {
+          "package_name": "com.example.flyin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC0Cxo7bx5a4jFZ0urdmujDgdQ431GERc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
